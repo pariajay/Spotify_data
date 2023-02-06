@@ -25,8 +25,7 @@ We need to use Spotify’s API to read the data and perform some basic transform
 1.  Knowledge on API
 2.  Understand what docker and docker-compose
 3.  Intermediate Python and SQL
-4.  A basic understanding of Airflow  [this](https://www.youtube.com/watch?v=AHMm1wfGuHE&t=705s) will help
-
+4.  A basic understanding of Airflow 
 # Learning Outcomes:
 
 1.  Understand how to interact with API to retrieve data
